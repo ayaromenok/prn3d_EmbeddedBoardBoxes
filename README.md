@@ -1,6 +1,8 @@
-# Embedded Board Boxes with cameras etc
+This repo is closed.
+Updated versions of the boxes can be found at [p3dEmbeddedBoxes](https://github.com/ayaromenok/p3dEmbeddedBoxes) repo
 
- Printable boxes for:
+Embedded Board Boxes with cameras etc
+Printable boxes for:
  
  - [Raspberry Pi 3B/Asus TinkerBoard](https://github.com/ayaromenok/prn3d_EmbeddedBoardBoxes/tree/master/RPi3B) - OpenScad/STL;
  - Raspberry Pi 3A;
